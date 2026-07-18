@@ -2,7 +2,7 @@
   <h1>開発者情報</h1>
 
   <p>
-    個人開発者 <strong>hiroxtuchi</strong> は、
+    個人開発者 <strong>masayuki hirosue</strong> は、
     iOSアプリケーションの企画・開発・運営を行っています。
   </p>
 
